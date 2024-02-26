@@ -41,3 +41,12 @@ console.log(greetings);
 
 //other apprach
 console.log(funcProgHello("suleman"));
+
+
+//OTHER Functional programming example via variable approach
+var funcProgWelcome = function(name , designation){
+    return `Mr. ${name} has joined the company as a ${designation} in our comapany`;
+}
+
+//you can assign the return value to process it further
+console.log(funcProgWelcome("dawood" , "developer"));
