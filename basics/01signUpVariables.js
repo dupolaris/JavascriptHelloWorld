@@ -7,7 +7,7 @@ var firstName = "muhammad";
 var lastName = "dawood";
 const uPassword = "123456";
 var country = "Pakistan";
-var isLoggedInViaGoogle =  true;
+var isLoggedInViaGoogle = true;
 var isLoggedInViaFacebook = false;
 
 console.log(`
